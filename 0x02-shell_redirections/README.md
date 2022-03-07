@@ -1,1 +1,1 @@
-This directory focuses on exercises on shell scripting basics
+This is a project on shell i/o redirection 
