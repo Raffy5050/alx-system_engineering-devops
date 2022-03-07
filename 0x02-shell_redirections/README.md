@@ -1,0 +1,1 @@
+This directory focuses on exercises on shell scripting basics
